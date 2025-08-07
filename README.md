@@ -48,7 +48,7 @@ This project was developed as part of a **Backend Developer Internship** assignm
 
 1. **Clone the project**
 ```bash
-git clone https://github.com/your-username/vahan-dashboard.git
+git clone https://github.com/ashu12658/Vahan-dashboard.git
 cd vahan-dashboard
 
 pip install -r requirements.txt
@@ -90,7 +90,7 @@ Covers usage, filters, graphs, and key insights
 
 👨‍💻 Author
 Ashish – Backend Developer (MERN Stack + Python)
-📧 ashish@example.com
+📧 ashishghatol098@gmail.com
 🌐 GitHub
 
 📜 License
